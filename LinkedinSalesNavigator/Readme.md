@@ -1,1 +1,1 @@
-This a scrapping project for scrapping Profiles from linkedin.
+This a scrapping project for scrapping Profiles from Linkedin Sales Navigator
